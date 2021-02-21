@@ -5,8 +5,8 @@ export interface coordenadas{
    * Digitar as coordenadas do local de nascimento:                    
    *  Exemplo: {{Longitude:"30W", Latitude:"30N"}}
    */
-  Longitude: string
-  Latitude: string
+  Longitude: string;
+  Latitude: string;
 }
 
 export interface PersonProps{
